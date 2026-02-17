@@ -1,2 +1,12 @@
-# smart-bookmark
-A real-time bookmark manager built with Next.js, Supabase, and Google OAuth. Users can securely save, edit, and delete private bookmarks with instant updates across tabs.
+# Smart Bookmark App
+
+A full-stack bookmark manager that allows users to securely save, edit, and delete bookmarks.  
+The app supports Google authentication and realtime updates, ensuring bookmarks instantly sync across browser tabs.
+
+## Features
+- Google OAuth login
+- Private bookmarks per user
+- Add, edit, and delete bookmarks
+- Realtime updates using Supabase
+- Responsive UI with Tailwind CSS
+- Deployed on Vercel
